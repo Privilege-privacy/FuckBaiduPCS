@@ -1,4 +1,4 @@
-wget https://github.com/iikira/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-386.zip
+wget https://github.com/felixonmars/BaiduPCS-Go/releases/download/v3.6.2/BaiduPCS-Go-v3.6.2-linux-386.zip
 unzip BaiduPCS-Go-v3.6.2-linux-386.zip
 cd BaiduPCS-Go-v3.6.2-linux-386
 chmod 777 ./BaiduPCS-Go
